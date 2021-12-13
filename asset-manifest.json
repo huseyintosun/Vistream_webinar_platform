@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Vistream_webinar_platform/static/css/main.f44f173c.chunk.css",
+    "main.js": "/Vistream_webinar_platform/static/js/main.8d324c4b.chunk.js",
+    "main.js.map": "/Vistream_webinar_platform/static/js/main.8d324c4b.chunk.js.map",
+    "runtime-main.js": "/Vistream_webinar_platform/static/js/runtime-main.b6e51787.js",
+    "runtime-main.js.map": "/Vistream_webinar_platform/static/js/runtime-main.b6e51787.js.map",
+    "static/js/2.0d2aae6c.chunk.js": "/Vistream_webinar_platform/static/js/2.0d2aae6c.chunk.js",
+    "static/js/2.0d2aae6c.chunk.js.map": "/Vistream_webinar_platform/static/js/2.0d2aae6c.chunk.js.map",
+    "static/js/3.d9984a10.chunk.js": "/Vistream_webinar_platform/static/js/3.d9984a10.chunk.js",
+    "static/js/3.d9984a10.chunk.js.map": "/Vistream_webinar_platform/static/js/3.d9984a10.chunk.js.map",
+    "index.html": "/Vistream_webinar_platform/index.html",
+    "static/css/main.f44f173c.chunk.css.map": "/Vistream_webinar_platform/static/css/main.f44f173c.chunk.css.map",
+    "static/js/2.0d2aae6c.chunk.js.LICENSE.txt": "/Vistream_webinar_platform/static/js/2.0d2aae6c.chunk.js.LICENSE.txt",
+    "static/media/1.eb52c301.png": "/Vistream_webinar_platform/static/media/1.eb52c301.png",
+    "static/media/2.655ff31f.png": "/Vistream_webinar_platform/static/media/2.655ff31f.png",
+    "static/media/3.168eca8a.png": "/Vistream_webinar_platform/static/media/3.168eca8a.png",
+    "static/media/4.a43d7b07.png": "/Vistream_webinar_platform/static/media/4.a43d7b07.png",
+    "static/media/5.8c53331c.png": "/Vistream_webinar_platform/static/media/5.8c53331c.png",
+    "static/media/6.c8e5c1db.png": "/Vistream_webinar_platform/static/media/6.c8e5c1db.png",
+    "static/media/7.c2323b14.png": "/Vistream_webinar_platform/static/media/7.c2323b14.png",
+    "static/media/8.de0114de.png": "/Vistream_webinar_platform/static/media/8.de0114de.png",
+    "static/media/App.css": "/Vistream_webinar_platform/static/media/FSAlbert Regular.066b4c82.woff",
+    "static/media/Group_1478.d1d3455e.svg": "/Vistream_webinar_platform/static/media/Group_1478.d1d3455e.svg",
+    "static/media/Group_1659.b5a0a404.svg": "/Vistream_webinar_platform/static/media/Group_1659.b5a0a404.svg",
+    "static/media/Group_1669.18773da0.svg": "/Vistream_webinar_platform/static/media/Group_1669.18773da0.svg",
+    "static/media/Group_1670.4469e4da.svg": "/Vistream_webinar_platform/static/media/Group_1670.4469e4da.svg",
+    "static/media/Group_1671.3e1fae95.svg": "/Vistream_webinar_platform/static/media/Group_1671.3e1fae95.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6e51787.js",
+    "static/js/2.0d2aae6c.chunk.js",
+    "static/css/main.f44f173c.chunk.css",
+    "static/js/main.8d324c4b.chunk.js"
+  ]
+}
